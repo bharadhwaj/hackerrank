@@ -6,4 +6,4 @@ for p in range(int(raw_input())):
     if z < 0: 
         print '-1' 
     else: 
-        print z*'5'+(y-z)*'3'
+        print z*'5' + (y-z)*'3'
